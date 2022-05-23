@@ -1,0 +1,9 @@
+{
+  "name": "npm_rapido",
+  "version": "1.0.0",
+  "description": "Criando um projeto com npm rapidamente",
+  "main": "index.js",
+  "keywords": ["npm", "npm init -y"],
+  "author": "Leo Oliveira",
+  "license": "ISC"
+}
